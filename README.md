@@ -161,7 +161,7 @@ This repository is part of a technical interview assignment and intended for dem
 
 ## Importent Link
 - [Demo](https://minilibraryms.bsite.net/swagger/index.html) - click here to see the live demo
-- [API Documentation](https://github.com/MonaemKhan/Mini-Library-Management-Syatem/blob/main/MiniLibraryManagementSystem/Readme.md)
+- [API Documentation](./MiniLibraryManagementSystem/Readme.md)
 - ER Diagram
     ---
     ![ER Diagram](./MiniLibraryManagementSystem/ER_DIAGRAM.png)
